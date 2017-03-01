@@ -970,8 +970,8 @@
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
             <StartingRoom>1</StartingRoom>
-            <StartX>82</StartX>
-            <StartY>146</StartY>
+            <StartX>85</StartX>
+            <StartY>145</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
             <MovementSpeed>3</MovementSpeed>
             <MovementSpeedX>0</MovementSpeedX>
@@ -1745,8 +1745,8 @@
                 <FileLastModifiedDate>2017-03-01 09:31:25Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>intro_dot</ScriptName>
                 <SourceFileName xml:space="preserve">C:\Users\Hadrien\Downloads\Maxime Abbey - Day of The Tentacle - Main Theme (Introduction - Opening)-[AudioTrimmer.com].mp3</SourceFileName>
+                <ScriptName>intro_dot</ScriptName>
                 <Index>2</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -1797,16 +1797,16 @@
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Music</Name>
         <TypeID>2</TypeID>
+        <Name>Music</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Sound</Name>
         <TypeID>3</TypeID>
+        <Name>Sound</Name>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>

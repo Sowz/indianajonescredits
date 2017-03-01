@@ -970,8 +970,8 @@
             <ThinkingView>0</ThinkingView>
             <BlinkingView>0</BlinkingView>
             <StartingRoom>1</StartingRoom>
-            <StartX>82</StartX>
-            <StartY>146</StartY>
+            <StartX>85</StartX>
+            <StartY>145</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
             <MovementSpeed>3</MovementSpeed>
             <MovementSpeedX>0</MovementSpeedX>
